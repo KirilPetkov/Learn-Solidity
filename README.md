@@ -1,7 +1,8 @@
 # Learn Solidity
 
 NOTE: THIS IS SOLIDITY CODE
-please subscribe!
+
+please subscribe
 
 1. First Contract: Initial code written for a blockchain program.
 
