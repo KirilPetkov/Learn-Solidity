@@ -1,2 +1,2 @@
-# solidity_simple_count
-solidity_simple_count
+# Learn Solidity
+Learn Solidity
