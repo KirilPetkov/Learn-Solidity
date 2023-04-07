@@ -2,8 +2,6 @@
 
 NOTE: THIS IS SOLIDITY CODE
 
-please subscribe
-
 1. First Contract: Initial code written for a blockchain program.
 
 2. Variables & Data Types: Values and their types used in programming.
@@ -17,3 +15,5 @@ please subscribe
 6. Full Contract: Complete code written for a blockchain program.
 
 7. Inheritance: A way to reuse code by inheriting properties and methods from a parent contract.
+
+8. Please subscribe me! Thank you!
