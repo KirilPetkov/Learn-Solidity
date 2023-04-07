@@ -1,5 +1,7 @@
 # Learn Solidity
 
+NOTE: THIS IS SOLIDITY CODE
+
 1. First Contract: Initial code written for a blockchain program.
 
 2. Variables & Data Types: Values and their types used in programming.
