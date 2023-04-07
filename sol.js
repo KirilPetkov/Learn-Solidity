@@ -1,0 +1,11 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Counter {
+    //Code goes here...
+    uint public count = 0; //1, 2, 3... if is uint can't be negative -
+
+    function increamentCount() public {
+        count = count + 1;
+    }
+}
