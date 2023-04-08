@@ -18,4 +18,4 @@ NOTE: THIS IS SOLIDITY CODE
 
 8. Please subscribe me! Thank you!
 
-https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ
+https://www.youtube.com/channel/UC7eMxONt1FwqK_O8L5cHNYg
