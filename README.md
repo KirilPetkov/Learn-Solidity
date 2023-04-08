@@ -19,3 +19,7 @@ NOTE: THIS IS SOLIDITY CODE
 8. Please subscribe me! Thank you!
 
 https://www.youtube.com/channel/UC7eMxONt1FwqK_O8L5cHNYg
+
+Video for the code:
+
+https://www.youtube.com/watch?v=EhPeHeoKF88&t=5295s
