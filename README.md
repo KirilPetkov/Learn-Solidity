@@ -17,3 +17,5 @@ NOTE: THIS IS SOLIDITY CODE
 7. Inheritance: A way to reuse code by inheriting properties and methods from a parent contract.
 
 8. Please subscribe me! Thank you!
+
+https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ
