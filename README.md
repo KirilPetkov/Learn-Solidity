@@ -23,3 +23,7 @@ https://www.youtube.com/channel/UC7eMxONt1FwqK_O8L5cHNYg
 Video for the code:
 
 https://www.youtube.com/watch?v=EhPeHeoKF88&t=5295s
+
+Source: 
+
+https://github.com/dappuniversity/master_solidity
